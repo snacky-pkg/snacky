@@ -19,8 +19,8 @@ Create an account at https://snacky.rf.gd, this is the official website.
 Upload your install.sh and your install.py scripts, NOT THE WHOLE PACKAGE!
 In the install.sh script, this is what is needed.
 1. GitHub repo info, this should be commented.
-2. The download URL, upload the package to GitHub, and copy the releases download url FOR THE ZIP FILE! example: https://github.com/username/repo/releases/download/version/package.zip
-3. A command to run install.py, example: python3 install.py
+2. The download URL, upload the package to GitHub, and copy the releases download url FOR THE ZIP FILE! example: https://github.com/username/repo/releases/download/version/package.zip. Should also be commented out.
+4. A command to run install.py, example: python3 install.py
 
 In the install.py script, this is what you need.
 1. A command to run Snacky. Use snacky.
