@@ -1,4 +1,4 @@
-# Snacky ![Snacky](https://github.com/snacky-pkg/snacky/blobmain/image.jpg?raw=true)
+# Snacky ![Snacky](https://github.com/snacky-pkg/snacky/blob/main/image.jpg?raw=true)
 
 # Introduction 
 
